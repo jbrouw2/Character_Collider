@@ -23,7 +23,7 @@
 
 ![](https://media.giphy.com/media/YLtioL8cTACFEPMkFx/giphy.gif)
 
-- Go deep into individual characters' behaviors with nested bookmarks for each Character, Domain, and Facet of ptheir ersonality
+- Go deep into individual characters' behaviors with nested bookmarks for each Character, Domain, and Facet of their personality
 - These behavior descriptions are unique, based on whether the character scores high or low on each personality domain
 
 ![](https://media.giphy.com/media/DUE3u2o4COr89RncjE/giphy.gif)
