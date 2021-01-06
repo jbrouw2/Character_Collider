@@ -12,21 +12,22 @@
     - **C** - Conscientiousness
     - **O** - Openness to Experience
     
-![](https://media.giphy.com/media/ta9BTUEIAZGg5cYiL0/giphy.gif){:height="100%" width="100%"}
+![](https://media.giphy.com/media/ta9BTUEIAZGg5cYiL0/giphy.gif)
+<img src="https://media.giphy.com/media/ta9BTUEIAZGg5cYiL0/giphy.gif" width="500" height="500" />
 
 - The app creates a Markdown file with your cast of characters
 - Convert Markdown to PDF with webtools like https://www.markdowntopdf.com/
 
-![](https://media.giphy.com/media/WItniu1PWBlyCwMYDc/giphy.gif){:height="150%" width="150%"}
+![](https://media.giphy.com/media/WItniu1PWBlyCwMYDc/giphy.gif)
 
 - See your characters' colliding personalities at a glance with the intuitive personality table at the top of the document
 
-![](https://media.giphy.com/media/YLtioL8cTACFEPMkFx/giphy.gif){:height="200%" width="200%"}
+![](https://media.giphy.com/media/YLtioL8cTACFEPMkFx/giphy.gif)
 
 - Go deep into individual characters' behaviors with nested bookmarks for each Character, Domain, and Facet of their personality
 - These behavior descriptions are unique, based on whether the character scores high or low on each personality domain
 
-![](https://media.giphy.com/media/DUE3u2o4COr89RncjE/giphy.gif){:height="250%" width="250%"}
+![](https://media.giphy.com/media/DUE3u2o4COr89RncjE/giphy.gif)
 
 ### Banish writers' block with a single script at your command line! 
 - Take your characters' colliding personalities and write what happens as they spark conflict with each other! 
