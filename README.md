@@ -12,8 +12,7 @@
     - **C** - Conscientiousness
     - **O** - Openness to Experience
     
-![](https://media.giphy.com/media/ta9BTUEIAZGg5cYiL0/giphy.gif)
-<img src="https://media.giphy.com/media/ta9BTUEIAZGg5cYiL0/giphy.gif" width="500" height="500" />
+<img src="https://media.giphy.com/media/ta9BTUEIAZGg5cYiL0/giphy.gif" width="500" />
 
 - The app creates a Markdown file with your cast of characters
 - Convert Markdown to PDF with webtools like https://www.markdowntopdf.com/
